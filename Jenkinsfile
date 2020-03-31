@@ -1,3 +1,9 @@
 pipeline {
-	/* nothing for now
+	agent {
+		node
+		{ label
+		 'test'
+		}
+	
+}/* nothing for now
 }
