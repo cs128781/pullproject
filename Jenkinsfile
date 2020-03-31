@@ -1,9 +1,6 @@
-pipeline {
-	agent {
-		node
-		{ label
-		 'test'
-		}
+node { 
+	checkout SCM		 
+     }
 	
-}/* nothing for now
-}
+
+
