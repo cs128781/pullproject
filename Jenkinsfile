@@ -1,5 +1,5 @@
 node { 
-	checkout SCM		 
+	checkout scm		 
      }
 	
 
