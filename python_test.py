@@ -7,5 +7,8 @@ def say_something():
 print(say_something())
 print('Again')
 print('And Again')
+for i in range(0,100):
+	print ("message: "+str(i))
+
 
 	
