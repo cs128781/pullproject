@@ -1,4 +1,4 @@
 echo "Kicking off Job"
 python python_test.py
-./terraform init
+$HOME/tform/terraform init
 echo "Done"
